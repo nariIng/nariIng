@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Nari.Ing</h1>
-<h3 align="center">Cybersecurity & IoT Enthusiast | Engineer | 42 Antananarivo Student</h3>
+<h3 align="center">Embeded system & IoT Enthusiast | Chemical Process Engineer | 42 Antananarivo Student</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nariing&label=Profile%20views&color=0e75b6&style=flat" alt="nariing" /> </p>
 
