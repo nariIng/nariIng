@@ -6,16 +6,17 @@
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=nariing" alt="nariing" /></a> </p>
 
 ## 🚀 About Me
-- 🎓 Chemical Engineering Student & Embedded Systems Developer
-- 💻 Passionate about Cybersecurity, IoT, and Automation
+- 🎓 Chemical Process and Industrial Engineering degree & Embedded Systems Developer
+- 💻 Passionate about Chemistry, Cybersecurity, IoT, and Automation (yes all of that)
 - 🏠 Building innovative **ESP32 & Arduino** projects with web-based monitoring
-- 🔬 Currently working on an **Automated Acid-Base Titrator** using ESP32, Arduino Nano, and Raspberry Pi 3B
+- 🔬 Currently working on an **Automated Acid-Base Titrator** using ESP32, Arduino Nano, and Raspberry Pi
+- 🎯 Student at **Ecole Supérieure Polytechnique d'Antananarivo (ESPA)**
 - 🎯 Student at **42 Antananarivo**, learning advanced programming and problem-solving
 - 📞 Contact me via email: **ing.emmanuela@gmail.com**
 
 ## 🛠️ Technologies & Tools
 ### 🔹 Embedded Systems & IoT
-- **ESP32, Arduino Nano, Raspberry Pi 3B**
+- **ESP32, Arduino Nano, Raspberry Pi**
 - **I2C Communication, Sensor Integration, Actuators**
 - **C, Python, Node.js for IoT Applications**
 
