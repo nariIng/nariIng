@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Nari.Ing</h1>
-<h3 align="center">Embeded system & IoT Enthusiast | Chemical Process and Industrial Engineer | 42 Antananarivo Student</h3>
+<h3 align="center">Embedded System & IoT Enthusiast | Chemical Process and Industrial Engineer | 42 Antananarivo Student</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nariing&label=Profile%20views&color=0e75b6&style=flat" alt="nariing" /> </p>
 
@@ -8,9 +8,10 @@
 ## 🚀 About Me
 - 🎓 Chemical Engineering Student & Embedded Systems Developer
 - 💻 Passionate about Cybersecurity, IoT, and Automation
-- 🏗️ Building innovative **ESP32 & Arduino** projects with web-based monitoring
+- 🏠 Building innovative **ESP32 & Arduino** projects with web-based monitoring
 - 🔬 Currently working on an **Automated Acid-Base Titrator** using ESP32, Arduino Nano, and Raspberry Pi 3B
 - 🎯 Student at **42 Antananarivo**, learning advanced programming and problem-solving
+- 📞 Contact me via email: **ing.emmanuela@gmail.com**
 
 ## 🛠️ Technologies & Tools
 ### 🔹 Embedded Systems & IoT
@@ -32,13 +33,23 @@
 - **ESP32 & Arduino Nano**: Sensor data acquisition (pH & weight)
 - **Raspberry Pi 3B**: Web server & Master Controller
 - **Real-time Monitoring** with interactive plots
+- **Automated titration process** using a peristaltic pump
+- **I2C Communication between ESP32 and Arduino Nano**
 [🔗 GitHub Repo](https://github.com/nariIng/memoire)
 
 ### 2️⃣ IoT-Based Temperature Monitoring 🌡️
 - **ESP32** reads data from **5 temperature sensors**
 - **Node.js Server** generates real-time temperature curves
 - **Web Dashboard** for data visualization
+- **Alerts & Notifications** for threshold exceedance
 [🔗 GitHub Repo](https://github.com/nariIng/ESP32-Temperature-Monitoring-System)
+
+### 3️⃣ Gas Volume Measurement System for Anaerobic Digestion 💨
+- **ESP32 & Pressure Sensors** to measure biogas volume
+- **Automated Data Logging** with real-time transmission
+- **Web-based interface** for visualization and analysis
+- **Energy-efficient system** optimized for long-term monitoring
+[🔗 GitHub Repo](https://github.com/nariIng/Biogas-production-monitoring)
 
 ## 📞 Connect with Me
 <p align="left">
@@ -53,4 +64,3 @@
 
 ---
 🔹 **Always open to learning & collaboration! Feel free to reach out!** 🚀
-
