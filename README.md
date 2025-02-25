@@ -11,7 +11,7 @@
 - 🏠 Building innovative **ESP32 & Arduino** projects with web-based monitoring
 - 🔬 Currently working on an **Automated Acid-Base Titrator** using ESP32, Arduino Nano, and Raspberry Pi
 - 🎯 Student at **Ecole Supérieure Polytechnique d'Antananarivo (ESPA)**
-- 🎯 Student at **42 Antananarivo**, learning advanced programming and problem-solving
+- 🎯 Student at **Ecole 42Antananarivo**, learning advanced programming and problem-solving
 - 📞 Contact me via email: **ing.emmanuela@gmail.com**
 
 ## 🛠️ Technologies & Tools
